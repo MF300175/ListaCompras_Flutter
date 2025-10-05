@@ -8,8 +8,8 @@
 
 ## 👤 **Informações do Projeto**
 
-- **Nome do Aluno:** [Seu Nome]
-- **Matrícula:** [Sua Matrícula]
+- **Nome do Aluno:** Mauricio Fernandes Leite
+- **Matrícula:** 697964
 - **Professor:** Cristiano Neto
 - **Disciplina:** Desenvolvimento de Aplicações Móveis e Distribuídas
 
